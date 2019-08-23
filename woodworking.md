@@ -1,8 +1,9 @@
-### General Woodworking
+# General Woodworking
+
+![Box](/images/box2.JPG)
 
 
-
-General Woodworking and Woodturning do work well together as hobbies. Many of the tools are common as well as the nature of the workshop environment. It is also useful to be able to integrate turned pieces in other items.
+_General Woodworking and Woodturning do work well together as hobbies. Many of the tools are common as well as the nature of the workshop environment. It is also useful to be able to integrate turned pieces in other items._
  
 Over the years I have bought a number of power tools - some of them have become so useful to me that if they for some reason they stopped working then I would go out immediately and replace them.  Some I could probably live without.
 Larger tools I could not live without
