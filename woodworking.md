@@ -1,6 +1,8 @@
 # General Woodworking
 
-![Boxyy](/Images/boxy.JPG)
+
+
+![Blank](/Images/blank.JPG)
 
 
 
@@ -8,7 +10,7 @@ _General Woodworking_ and _Woodturning_ do work well together as hobbies. Many o
  
 Over the years I have bought a number of power tools - some of them have become so useful to me that if they for some reason they stopped working then I would go out immediately and replace them.  Some I could probably live without.
 
-![Pens](/Images/pen.JPG)
+![Penswood](/Images/wood.JPG)
 
 Larger tools I could not live without
 
