@@ -1,6 +1,6 @@
 # General Woodworking
 
-![Workshop wood](/Images/woood.JPG)
+![Workshop wood](/Images/wood.JPG)
 ![Workshop](/Images/wood.JPG)
 
 _General Woodworking_ and _Woodturning_ do work well together as hobbies. Many of the tools are common as well as the nature of the workshop environment. It is also useful to be able to integrate turned pieces in other items.
