@@ -1,45 +1,10 @@
-## Welcome to GitHub Pages
 
-Also helped by Michael ;)
+# Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/AllenKaye/AllenKaye.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a repository of techniques, sources, scripts, reminders of processes relating to my hobbies and interests.  Also, given that most of what I make is given away, it is also a memory store for me of images of items that I have produced over the years.  The images help to remind me of materials used, shapes and proportions that have worked as well as those I may not want to repeat.. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At this stage (24th Aug 2019) the website is being transferred from one hosted in Drupal by 1&1 to this one on Github - it will steadily accumulate content.  Thanks to my son Michael who recommended GitHub and who has helped me to get used to Markdown and the processes involved in producing and uploading pages.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-- third
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-[Fused Glass main paghe](/fusedglass).
-[Woodworking](/woodworking).
+[Fused Glass main page](/fusedglass).
+[Woodworking main page](/woodworking).
 [Pens](/pens).
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AllenKaye/AllenKaye.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
