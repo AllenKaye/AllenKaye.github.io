@@ -8,3 +8,5 @@ At this stage (24th Aug 2019) the website is being transferred from one hosted i
 [Fused Glass main page](/fusedglass).
 [Woodworking main page](/woodworking).
 [Pens](/pens).
+
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
