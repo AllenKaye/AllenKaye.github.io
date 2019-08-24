@@ -13,4 +13,7 @@ At this stage (24th Aug 2019) the website is being transferred from one hosted i
 
 [Pens](/pens).
 
+
+![Pens](/Images/pen.JPG)
+
 Some Markdown text with <span style="color:blue">some *blue* text</span>.
