@@ -10,8 +10,6 @@ _General Woodworking_ and _Woodturning_ do work well together as hobbies. Many o
  
 Over the years I have bought a number of power tools - some of them have become so useful to me that if they for some reason they stopped working then I would go out immediately and replace them.  Some I could probably live without.
 
-![Penswood](/Images/wood.JPG)
-
 Larger tools I could not live without
 
 * Bandsaw
@@ -32,5 +30,5 @@ My workshop is a slightly extended thin garage. At the start it was important to
 * Lighting - there is an equation somewhere that I used to calculate how many striplights you need (again more than you would think) and also crucially where they are placed on the ceiling relative to your work surfaces so as to avoid shadows.
 * Dust management. I got worried a while ago about dust so invested in various dust collection systems including a number of old vacuums. The last type proved to fill far too quickly so now I move around the dust collectors between machines. I also have an air dust collector but still feel I need to wear personal dustmasks (from Screwfix).
 
-It turns out by the way that a long thin workshop is actually a very efficient way of using space as long as the bigger machines are either on casters or wheels so that they can be brought into the middle as n
+It turns out by the way that a long thin workshop is actually a very efficient way of using space as long as the bigger machines are either on casters or wheels so that they can be brought into the middle as needed.
 
