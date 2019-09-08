@@ -1,12 +1,5 @@
 # General Woodworking
 
-<div id="mySidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="#">About</a>
-  <a href="#">Services</a>
-  <a href="#">Clients</a>
-  <a href="#">Contact</a>
-</div>
 
 _General Woodworking_ and _Woodturning_ do work well together as hobbies. Many of the tools are common as well as the nature of the workshop environment. It is also useful to be able to integrate turned pieces in other items.
  
