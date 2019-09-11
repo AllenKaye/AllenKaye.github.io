@@ -42,7 +42,7 @@ Some random text
       </header>
       <section>
 
-# Welcome to my website
+# Welcome to my super website
 
 This is a repository of techniques, sources, scripts, reminders of processes relating to my hobbies and interests.  Also, given that most of what I make is given away, it is also a memory store for me of images of items that I have produced over the years.  The images help to remind me of materials used, shapes and proportions that have worked as well as those I may not want to repeat.. 
 
