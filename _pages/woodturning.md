@@ -1,6 +1,7 @@
 ---
 title: General Woodworking
 tags: woodworking
+permalink: /general-woodworking
 ---
 
 
