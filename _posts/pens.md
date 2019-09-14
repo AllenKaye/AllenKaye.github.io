@@ -1,3 +1,8 @@
+---
+title: Pens
+tags: woodworking
+---
+
 # Pens
 
 ![Box](/Images/pen.JPG)
@@ -10,7 +15,6 @@ Pen making requires very little additional kit.  A mandrel like the one below is
 The most common pen internal diameter is 7mm - often called streamline, slimline or comfort pens - these kits can cost from under £2.00 upwards to over £3.00.  Other more complex and fancier pen kits can cost up to £20.00.  
 
 They are all constructed in a similar way - blanks are cut to length and drilled lengthwise on a drill press or lathe to suit the size and diameter of the brass tubes supplied with the kit.  The tubes are glued into the blanks and then the ends trimmed to fit.  The tubes with blanks attached are then inserted onto a mandrel and put on the lathe.  The wood is turned down to fit and then sanded and finished.  Once dried the whole pen is assembled.   
-________________________________________
  
 It took a while to find the best finish to put on pens.  Initially I was using a coat of sanding sealer and then friction polish followed by carnuba wax and although this gave a fine and polished finish, when the pens were used over time the oils in the fingers caused the polished surface of the pens to dull somewhat.  
 
