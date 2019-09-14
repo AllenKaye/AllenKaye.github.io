@@ -1,0 +1,5 @@
+main:
+  - title: "Woodworking"
+    url: "/woodworking"
+  - title: "Something else"
+    url: "/foo"
