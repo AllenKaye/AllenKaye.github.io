@@ -1,5 +1,5 @@
 main:
   - title: "Woodworking"
-    url: "/woodworking"
+    url: "//woodworking"
   - title: "Glass fusing"
-    url: "/fusedglass"
+    url: "//fusedglass"
