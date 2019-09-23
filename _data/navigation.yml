@@ -1,6 +1,6 @@
 main:
-  - title: "Woodturning"
-    url: "/pages/Woodturning"
+  - title: "Woodturning bit"
+    url: "/_pages/Woodturning"
 
   - title: "Glass fusing"
-    url: "/pages/fusedglass"
+    url: "/_pages/fusedglass"
