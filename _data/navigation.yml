@@ -1,6 +1,6 @@
 main:
-  - title: "Woodworking"
-    url: "//Woodturning"
+  - title: "Woodturning"
+    url: "/pages/Woodturning"
 
   - title: "Glass fusing"
-    url: "//fusedglass"
+    url: "/pages/fusedglass"
